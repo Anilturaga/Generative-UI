@@ -5,9 +5,14 @@
 
 <br/>
 
+<div align="center">
+  <a href="https://youtube.com/shorts/65uOIydXrQs">Demo Reel</a> | <a href="https://youtube.com/shorts/bYmYJf6lBhE">Pitch Reel</a>
+</div>
+
 Ask AI to build an app. It creates a window on the canvas for you and also adds logic to invoke itself on user interactions. When you interact with the window like say clicking a button, the agent will be invoked and will edit the window to reflect appropriate changes. The agent is also able to create new windows or edit existing windows accordingly.
 
 ![App screenshot](assets/app-screenshot.jpg)
+
 
 ## Table of Contents
 * [Architecture](#architecture)
